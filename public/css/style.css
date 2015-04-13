@@ -1,0 +1,156 @@
+body{
+	background-color: #d9f3ff;
+}
+.logo{
+	position: fixed;
+	height: 100px;
+}
+.navbar-default .navbar-text{
+	float : right;
+	color : #8f8f8f;
+	font-weight: bold;
+	height: 80px;
+	width: 300px;
+	background-color: #d9f3ff;
+	border-radius: 10px;
+	margin-top: 5px;
+	
+}
+.navbar-default .navbar-link{
+	color :#8f8f8f;
+}
+.navbar-default .container{
+	height : 100px;
+}
+a:hover { 
+	text-decoration: none;
+	color:#8f8f8f;
+}
+.body{
+	position:relative;
+	margin-top :120px;
+	margin-left: 20px;
+	z-index: 1;
+	padding-bottom: 100px;
+}
+.courseDesAtt{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-decoration: none;
+}
+.search-subj{
+	width: 300px;
+}
+.search-rslt{
+	padding-top: 10px;
+	padding-left:20px; 
+	font-size: 18px;
+}
+.panel-footer{
+	text-align: right;
+}
+.navbar-fixed-bottom{
+	min-height: 30px;
+	height: 30px;
+	text-align: center;
+}
+.navbar-fixed-top{
+	background-color: #a3e1ff;
+	height: 100px;
+}
+.username-in{
+	border : 2px solid #eeeeee;
+	border-radius: 10px;
+	padding: 10px 10px 10px 10px;
+	position:fixed;
+	width :350px;
+	top :50%;
+	left :50%;
+	margin-left: -160px;
+	margin-top: -140px;	
+	background-color: #eeeeee;
+}
+.login-feild{
+	width: 300px;
+}
+.login-submit{
+	float:right;
+}
+.addUser-submit{
+	float: right;
+}
+.addStudentId-feild{
+	width: 300px;
+}
+.addEventName-feild{
+	width: 300px;
+}
+.addEventDescription-feild{
+	width: 300px;
+}
+.updateStudentId-feild{
+	width: 300px;
+}
+.addSectionNo-feild{
+	width: 150px;
+}
+.updateSectionNo-feild{
+	width: 150px;
+}
+.noOfSection-feild{
+	width: 150px;
+}
+.addTeacherId-feild{
+	width: 300px;
+}
+.addStudentToCourse-submit{
+	float:right;
+}
+.addCourse-submit{
+	float:right;
+}
+.addSection-submit{
+	float:right;
+}
+.setionComment-feild{
+	width: 100px;
+}
+.semesterComment-feild{
+	width: 100px;
+}
+.academicYearComment-feild{
+	width: 100px;
+}
+.searchComment{
+	float:right;
+}
+a{
+	text-decoration: none;
+	color: #333;
+}
+.login-button{
+	color: #fff;
+	background-color: #449d44;
+	border-color: #398439;
+	display: inline-block;
+	padding: 6px 12px;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.42857143;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	width:90px;
+	cursor: pointer;
+
+	background-image: none;
+	border: 1px solid transparent;
+	border-radius: 4px
+}
+.addSectionNo-feild{
+	width: 400px;
+}
+.chooseSec{
+	width: 100px;
+}
